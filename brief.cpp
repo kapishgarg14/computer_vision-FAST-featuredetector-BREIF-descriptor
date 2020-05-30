@@ -8,7 +8,7 @@
 using namespace std;
 using namespace cv;
 using namespace xfeatures2d;
-#include"FAST.CPP"
+#include"FAST.h"
 class BRIEF{
     public:
    vector<vector<int> > des;
