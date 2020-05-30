@@ -4,3 +4,7 @@ Features from accelerated segment test (FAST) is a corner detection method, whic
 ![alt text](https://github.com/kapishgarg14/computer_vision-FAST-featuredetector/blob/master/input.jpg)
 
 ![alt text](https://github.com/kapishgarg14/computer_vision-FAST-featuredetector/blob/master/output.png)
+
+
+# BRIEF "Binary Robust Independent Elementary Features"
+BRIEF is a general-purpose feature point descriptor that can be combined with arbitrary detectors. It is robust to typical classes of photometric and geometric image transformations. BRIEF is targeting real-time applications leaving them with a large portion of the available CPU power for subsequent tasks but also allows running feature point matching algorithms on computationally weak devices such as mobile phones. link
